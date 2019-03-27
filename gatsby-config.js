@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Candlin'`,
     author: `shintarowfresh`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-      siteUrl: `https://mystifying-neumann-666fd1.netlify.com/`,
+    description: `心に火を灯けるブログ`,
+      siteUrl: `https://this-fire.life/`,
     social: {
       twitter: `shintarowfresh`,
     },
