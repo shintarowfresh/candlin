@@ -41,6 +41,10 @@ Twitterを見ている限りでは、**平成が昨日までと思い込んで�
 
 Rayを想起させる。僕にとって光の線は、 **新しいもの、かっこいいもの、素敵なもの** を連想させる。
 
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">それではお聞きください、BUMP OF CHICKEN「ray（和）」<br><br>BUMP OF CHICKEN「ray」 <a href="https://t.co/U8547iXeUO">https://t.co/U8547iXeUO</a> <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>さんから</p>&mdash; シンタロヲフレッシュ (@shintarowfresh) <a href="https://twitter.com/shintarowfresh/status/1112550740088639488?ref_src=twsrc%5Etfw">2019年4月1日</a></blockquote>
+
+
+
 音で言うならば和（WA）も悪くない。仲間の輪（わ）や循環を連想させるまさに **“閉じていない”** 音の響き。
 
 無数に飛び交う光の線が、輪になったり和を成したりするなんて、カッコいいじゃないか。

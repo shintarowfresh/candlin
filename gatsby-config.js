@@ -45,6 +45,8 @@ module.exports = {
         ],
       },
     },
+    `gatsby-remark-embed-youtube`,
+    `gatsby-plugin-twitter`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
