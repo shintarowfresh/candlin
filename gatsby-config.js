@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog (AMP to PWA)`,
-    author: `Tomoyuki Kashiro`,
+    title: `Candlin'`,
+    author: `シンタロヲフレッシュ`,
     description: `A starter blog (AMP to PWA) demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-amp-to-pwa.netlify.com/`,
+      siteUrl: `https://this-fire.life/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `shintarowfresh`,
     },
   },
   plugins: [
@@ -98,11 +98,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Candlin'`,
+        short_name: `Candlin`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#f1c945`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
