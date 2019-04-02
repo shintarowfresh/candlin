@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-                ライフスタイルブロガー<strong>{author}</strong>が書く、心に火を灯けるブログ。
+                ライフスタイルブロガー<strong>{author}</strong>が書く、ハートに火を灯けるブログ。
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitterをフォローする
