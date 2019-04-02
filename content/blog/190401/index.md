@@ -41,7 +41,7 @@ Twitterを見ている限りでは、**平成が昨日までと思い込んで�
 
 Rayを想起させる。僕にとって光の線は、 **新しいもの、かっこいいもの、素敵なもの** を連想させる。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">それではお聞きください、BUMP OF CHICKEN「ray（和）」<br><br>BUMP OF CHICKEN「ray」 <a href="https://t.co/U8547iXeUO">https://t.co/U8547iXeUO</a> <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>さんから</p>&mdash; シンタロヲフレッシュ (@shintarowfresh) <a href="https://twitter.com/shintarowfresh/status/1112550740088639488?ref_src=twsrc%5Etfw">2019年4月1日</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">それではお聞きください、BUMP OF CHICKEN「ray（和）」<br><br>BUMP OF CHICKEN「ray」 <a href="https://t.co/U8547iXeUO">https://t.co/U8547iXeUO</a> <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>さんから</p>&mdash; シンタロヲフレッシュ (@shintarowfresh) <a href="https://twitter.com/shintarowfresh/status/1112550740088639488?ref_src=twsrc%5Etfw">April 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
