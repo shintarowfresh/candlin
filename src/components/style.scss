@@ -1,0 +1,36 @@
+body {
+    background: #262626;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+a {
+    color: #f1c945;
+}
+
+.twitter-tweet.twitter-tweet-rendered {
+    margin: 1em auto;
+    padding-bottom: 1em;
+}
+
+
+.home-headtitle a,
+.single-headtitle a {
+    background-image: url(/static/site-title.png);
+    background-size: cover;
+    text-indent: -9999px;
+    display: block;
+    width: 4.2em;
+    height: 0;
+    padding-bottom: 16%;
+}
+
+
+.single-headtitle a {
+    background-image: url(/static/page-title.png);
+    width: 7.4em;
+    padding-bottom: 7.4%;
+}
+
+.posttitle {
+    color: #fff;
+}

@@ -47,6 +47,7 @@ module.exports = {
     },
     `gatsby-remark-embed-youtube`,
     `gatsby-plugin-twitter`,
+    `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -65,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/thisfire.png`,
       },
     },
     `gatsby-plugin-offline`,
