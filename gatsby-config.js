@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Candlin'`,
     author: `shintarowfresh`,
-    description: `心に火を灯けるブログ`,
+    description: `ハートに火を灯けるブログ`,
       siteUrl: `https://this-fire.life/`,
     social: {
       twitter: `shintarowfresh`,
