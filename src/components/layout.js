@@ -14,6 +14,7 @@ class Layout extends React.Component {
     if (location.pathname === rootPath) {
       header = (
         <h1
+          className="home-headtitle"
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
@@ -35,6 +36,7 @@ class Layout extends React.Component {
     } else {
       header = (
         <h3
+          className="single-headtitle"
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
