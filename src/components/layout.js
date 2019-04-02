@@ -1,8 +1,15 @@
+/**
+ * Layout component that queries for data
+ * with Gatsby's StaticQuery component
+ *
+ * See: https://www.gatsbyjs.org/docs/static-query/
+ */
+
 import React from "react"
-import { Link } from "gatsby"
+import PropTypes from "prop-types"
+import { StaticQuery, graphql } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
-
+<<<<<<< HEAD
 import './style.scss'
 
 class Layout extends React.Component {
@@ -37,43 +44,47 @@ class Layout extends React.Component {
       header = (
         <h3
           className="single-headtitle"
+=======
+import Header from "./header"
+import "./layout.css"
+
+const Layout = ({ children }) => (
+  <StaticQuery
+    query={graphql`
+      query SiteTitleQuery {
+        site {
+          siteMetadata {
+            title
+          }
+        }
+      }
+    `}
+    render={data => (
+      <>
+        <Header siteTitle={data.site.siteMetadata.title} />
+        <div
+>>>>>>> parent of 3b1c9af... なかみ、入れ替えてみた。
           style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
+            margin: `0 auto`,
+            maxWidth: 960,
+            padding: `0px 1.0875rem 1.45rem`,
+            paddingTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
-    }
-    return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
-    )
-  }
+          <main>{children}</main>
+          <footer>
+            © {new Date().getFullYear()}, Built with
+            {` `}
+            <a href="https://www.gatsbyjs.org">Gatsby</a>
+          </footer>
+        </div>
+      </>
+    )}
+  />
+)
+
+Layout.propTypes = {
+  children: PropTypes.node.isRequired,
 }
 
 export default Layout
