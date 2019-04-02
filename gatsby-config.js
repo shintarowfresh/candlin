@@ -106,7 +106,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#f1c945`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/thisfire.png`,
       },
     },
     {

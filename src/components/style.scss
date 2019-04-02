@@ -1,5 +1,8 @@
+$body-dark: #262626;
+
+
 body {
-background: #262626;
+    background: $body-dark;
 color: rgba(255, 255, 255, 0.75);
 }
 
@@ -36,5 +39,5 @@ color: #fff;
 }
 
 img.gatsby-resp-image-image {
-    box-shadow: inset 0px 0px 0px 400px #262626 !important;
+    box-shadow: inset 0px 0px 0px 400px $body-dark !important;
 }
