@@ -48,7 +48,11 @@ function SEO({ description, lang, meta, keywords, title, slug = ''}) {
               },
               {
                 name: `twitter:card`,
-                content: `summary`,
+                content: `summary_large_image`,
+              },
+              {
+                name: `og:image`,
+                content: `https://res.cloudinary.com/dkgxsemil/image/upload/w_800,e_blur:800/l_text:Sawarabi%20Gothic_44_bold:${title},co_rgb:fff,w_600,c_fit/v1555578139/eye/candlin-eye.png`,
               },
               {
                 name: `twitter:creator`,
