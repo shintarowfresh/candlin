@@ -8,7 +8,7 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     body: {
         background: `#262626`,
-        color: `#fff`,
+        color: `rgba(255, 255, 255, 0.75)`,
     },
     a: {
         color: `#f1c945`,
