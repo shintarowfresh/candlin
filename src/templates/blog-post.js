@@ -27,6 +27,15 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        <p><small className="small">誤字脱字を発見された方はプルリクいただけますと幸いです。<br />
+        <a
+            href={`https://github.com/shintarowfresh/candlin/edit/master/content/blog${slug}index.md`}
+            rel="nofllow"
+        >
+        Edit on GitHub
+        </a></small></p>
+
         <hr
           style={{
             marginBottom: rhythm(1),
