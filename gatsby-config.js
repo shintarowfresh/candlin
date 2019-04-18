@@ -45,6 +45,15 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+          // Setting a color is optional.
+          color: `tomato`,
+          // Disable the loading spinner.
+          showSpinner: false,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-twitter`,
@@ -52,7 +61,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+          trackingId: `UA-138619411-1`,
       },
     },
     {
